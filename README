@@ -9,4 +9,4 @@ python manage.py runserver
 
 If prompted credentials on login screen, use:
 username = 'Aryan'
-password = '1234'
+password = '12345'
