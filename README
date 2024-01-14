@@ -7,5 +7,6 @@ pip install -r requirements.txt
 cd django...
 python manage.py runserver
 
-(if username password is asked use Aryan and 1234)
-
+If prompted credentials on login screen, use:
+username = 'Aryan'
+password = '1234'
