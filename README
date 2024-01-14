@@ -1,0 +1,11 @@
+To run
+
+python -m venv env
+. env/bin/activate
+pip install -r requirements.txt
+
+cd django...
+python manage.py runserver
+
+(if username password is asked use Aryan and 1234)
+
